@@ -8,6 +8,6 @@ This project extends what we did with [Teegi](https://team.inria.fr/potioc/scien
 
 ![Tobe for multi-user relaxation](images/tobe_coherence.jpg)
 
-The various elements that compose the toolkit are available through [Conpthyture](https://github.com/conphyture) and [Introspectibles](https://github.com/introceptibles). The former holds components related to physiological sensors and signal processing, the latter holds the building blocks related to the support and to the feedback. 
+The various elements that compose the toolkit are available through [Conphyture](https://github.com/conphyture) and [Introspectibles](https://github.com/introceptibles). The former holds components related to physiological sensors and signal processing, the latter holds the building blocks related to the support and to the feedback. 
 
 We plan to test the use of Tobe on the long term -- several weeks --  both for fostering wellbeing and enhancing social presence.
